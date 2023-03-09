@@ -1,7 +1,8 @@
-import CardContainer from './components/cardContainer/CardContainer';
+import CardContainer from "./components/card-container/CardContainer";
+
 
 const App = () => {
-	return <CardContainer />;
+	return <CardContainer/>
 };
 
 export default App;
